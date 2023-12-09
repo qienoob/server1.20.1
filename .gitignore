@@ -1,0 +1,29 @@
+*
+
+# add README
+!README.md
+# add gitignore
+!.gitignore
+# add xaerominimap-common.txt
+!xaerominimap-common.txt
+# add xaeroworldmap-common.txt
+!xaeroworldmap-common.txt
+
+!world/
+world/*
+
+!world/scripts/
+world/scripts/*
+
+# add freecamera.sc
+!world/scripts/freecamera.sc
+
+# add waypoints.sc
+!world/scripts/waypoints.sc
+
+!world/serverconfig/
+world/serverconfig/*
+
+# add ftbultimine-server.snbt
+!world/serverconfig/ftbultimine-server.snbt
+
