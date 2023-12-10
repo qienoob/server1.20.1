@@ -15,11 +15,8 @@ world/*
 !world/scripts/
 world/scripts/*
 
-# add freecamera.sc
-!world/scripts/freecamera.sc
-
-# add waypoints.sc
-!world/scripts/waypoints.sc
+# add Scarpet scripts
+!world/scripts/*.sc
 
 !world/serverconfig/
 world/serverconfig/*
@@ -27,3 +24,5 @@ world/serverconfig/*
 # add ftbultimine-server.snbt
 !world/serverconfig/ftbultimine-server.snbt
 
+# add carpet.conf
+!world/carpet.conf
