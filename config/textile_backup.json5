@@ -72,7 +72,7 @@
 	/* 
 	   Minimal permission level required to run commands
 	*/
-	"permissionLevel": 1,
+	"permissionLevel": 0,
 	/* 
 	   Player on singleplayer is always allowed to run command. Warning! On lan party everyone will be allowed to run it.
 	*/
