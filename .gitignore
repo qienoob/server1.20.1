@@ -26,3 +26,7 @@ world/serverconfig/*
 
 # add carpet.conf
 !world/carpet.conf
+
+!config/
+config/*
+!config/textile_backup.json5
