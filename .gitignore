@@ -30,3 +30,4 @@ world/serverconfig/*
 !config/
 config/*
 !config/textile_backup.json5
+!config/gtceu.yaml
